@@ -1,0 +1,5 @@
+
+
+
+1.Check Capacitor trmperature if too hot it means leaky or short
+2.Use Ohm meter to check small Cap and desolder one of its leg, it need high resistance

@@ -1,0 +1,10 @@
+
+
+
+
+
+1.The temperature of solder should be under 250 but rework needs higher but don't last too long 
+
+2.solder iron temp. is below 350, 250 to 300 is safe for IC
+
+3. try to preHeating( maintain temperature 200 for a while then heat up for the desolder work
